@@ -28,11 +28,11 @@ Building reliable APIs, distributed systems, and business applications with a fo
 
 ## About me
 
-- 💻 Backend developer focused on **C#, .NET, ASP.NET Core, and RESTful API design**
-- 🏗️ Interested in **clean architecture, layered architecture, microservices, and distributed systems**
-- 🔐 Experienced with authentication, authorization, payment integration, messaging, caching, and cloud storage
-- 🧪 Learning more about testing, observability, system design, and production-ready deployments
-- 🤝 Open to collaboration, backend opportunities, and interesting software projects
+- Backend developer focused on **C#, .NET, ASP.NET Core, and RESTful API design**
+- Interested in **clean architecture, layered architecture, microservices, and distributed systems**
+- Experienced with authentication, authorization, payment integration, messaging, caching, and cloud storage
+- Learning more about testing, observability, system design, and production-ready deployments
+- Open to collaboration, backend opportunities, and interesting software projects
 
 ## Technical skills
 
@@ -67,7 +67,7 @@ Building reliable APIs, distributed systems, and business applications with a fo
 
 > These projects best represent my backend development experience, architecture knowledge, and ability to build business-oriented software.
 
-### 🏢 [AptCare](https://github.com/NguyenDucHuan/AptCare_BE)
+### [AptCare](https://github.com/NguyenDucHuan/AptCare_BE)
 
 **Apartment management platform | .NET 8 · PostgreSQL · Redis · RabbitMQ · SignalR**
 
@@ -80,7 +80,7 @@ A backend system for managing apartments, residents, services, maintenance reque
 - Asynchronous messaging with RabbitMQ and distributed caching with Redis
 - AWS S3 and Cloudinary integration for file and image storage
 
-### ⚙️ [TascoSystem](https://github.com/NguyenDucHuan/TascoSystem)
+### [TascoSystem](https://github.com/NguyenDucHuan/TascoSystem)
 
 **Task and project management platform | .NET 8 · Microservices · Docker · RabbitMQ**
 
@@ -93,7 +93,7 @@ A microservices-based backend designed to manage users, projects, tasks, workflo
 - Docker Compose setup for local multi-service development
 - Dedicated notification worker with email templates and priority handling
 
-### 💎 [DiamondShop MVC](https://github.com/NguyenDucHuan/DiamondShop_MVC)
+### [DiamondShop MVC](https://github.com/NguyenDucHuan/DiamondShop_MVC)
 
 **E-commerce management system | ASP.NET MVC 5 · SQL Server · Entity Framework**
 
@@ -104,7 +104,7 @@ A full web application for diamond product management, shopping cart workflows, 
 - Admin dashboard for products, customers, orders, inventory, and reports
 - Server-rendered MVC application using Razor, Bootstrap, and jQuery
 
-### 🧋 [MilkTea Management POS](https://github.com/NguyenDucHuan/MilkTeaManagementPos)
+### [MilkTea Management POS](https://github.com/NguyenDucHuan/MilkTeaManagementPos)
 
 **Windows point-of-sale application | .NET 6 · WPF · SQL Server · EF Core**
 
