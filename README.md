@@ -1,50 +1,74 @@
-<h1 align="center">Hi there, I'm Nguyễn Đức Huấn 👋</h1>
-
-<h3 align="center">A passionate Fresher Software Developer (.NET/C#) from Vietnam.</h3>
-
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
----
-
-### 🚀 Projects
-Here are some projects that highlight my experience in building robust backend systems:
-
-*   **[AptCare]** | *C#, ASP.NET Core, EF Core, PostgreSQL*
-    - Developed secure RESTful APIs with JWT authentication.
-    - Optimized database queries and deployed to Ubuntu VPS.
-    - [View Repository](LINK_REPO_APTCARE_HERE)
-
-*   **[MilkTeaPOS]** | *C#, ASP.NET Core, Docker, RabbitMQ, Redis*
-    - Built a scalable POS system for milk tea shops.
-    - Integrated PayOS for payments and Cloudinary for media management.
-    - [View Repository](LINK_REPO_MILKTEAPOS_HERE)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 📬 Contact Me
-- 📧 **Email:** nguyenduchuan14012003@gmail.com
-- 📱 **Phone:** 0908892160
-- 📍 **Location:** Ho Chi Minh City, Viet Nam
+<h1 align="center">Hey 👋, I'm Uday Sharma</h1>
 
 <p align="center">
-  <a href="mailto:nguyenduchuan14012003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat" alt="Followers" />
 </p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=udaysharmadev&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,tailwind,mongodb,mysql,postgres,redis,firebase,docker,git,github,figma,vercel,aws,gcp&perline=18&size=10"
+    alt="Tech Stack"
+  />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udaysharmadev&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
