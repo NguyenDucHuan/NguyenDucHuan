@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyễn Đức Huấn — .NET Backend Developer</title>
+  <desc id="desc">Dark tech banner featuring backend development, .NET, APIs, distributed systems, databases, and cloud infrastructure.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090d1a"/>
+      <stop offset="55%" stop-color="#111936"/>
+      <stop offset="100%" stop-color="#24134d"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#512bd4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7c5cff" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8ca0d8" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="72" r="150" fill="#512bd4" opacity=".16" filter="url(#softGlow)"/>
+  <circle cx="1090" cy="260" r="120" fill="#00c8ff" opacity=".10" filter="url(#softGlow)"/>
+  <path d="M0 260C170 200 270 300 430 235S710 150 860 218 1080 278 1200 190" fill="none" stroke="url(#glow)" stroke-width="2"/>
+  <path d="M0 278C170 218 270 318 430 253S710 168 860 236 1080 296 1200 208" fill="none" stroke="#5f7cff" stroke-opacity=".25"/>
+
+  <g transform="translate(72 78)">
+    <rect x="0" y="0" width="72" height="72" rx="16" fill="#512bd4"/>
+    <path d="M19 22h34c7 0 12 5 12 12v17c0 7-5 12-12 12H19c-7 0-12-5-12-12V34c0-7 5-12 12-12Z" fill="none" stroke="#fff" stroke-width="4"/>
+    <path d="M20 39h11m10 0h11M20 51h8m9 0h15" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="20" cy="17" r="4" fill="#00d9ff"/>
+    <circle cx="36" cy="17" r="4" fill="#7c5cff"/>
+    <circle cx="52" cy="17" r="4" fill="#fff" opacity=".8"/>
+  </g>
+
+  <text x="176" y="112" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">NGUYỄN ĐỨC HUẤN</text>
+  <text x="180" y="158" fill="#9fdcff" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="2">.NET BACKEND DEVELOPER</text>
+  <text x="180" y="204" fill="#c5cbe5" font-family="Segoe UI, Arial, sans-serif" font-size="17">APIs • Distributed Systems • Clean Architecture • Cloud</text>
+
+  <g transform="translate(180 238)" font-family="Consolas, monospace" font-size="15">
+    <rect width="510" height="38" rx="19" fill="#0a1024" stroke="#34457b"/>
+    <circle cx="22" cy="19" r="5" fill="#49e58b"/>
+    <text x="38" y="25" fill="#b8c7ff">build reliable systems, one service at a time</text>
+  </g>
+
+  <g transform="translate(870 74)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 54h52M26 28v52M0 54l26-26 26 26" stroke="#6f8cff" stroke-width="3" opacity=".8"/>
+    <rect x="80" y="10" width="170" height="92" rx="12" stroke="#7385c9" stroke-width="2" opacity=".8"/>
+    <path d="M98 34h134M98 58h100M98 82h72" stroke="#00d9ff" stroke-width="4" opacity=".85"/>
+    <circle cx="236" cy="34" r="5" fill="#49e58b" stroke="none"/>
+    <path d="M26 80c32 25 55 28 80 0M250 102c-20 36-67 55-112 39" stroke="#512bd4" stroke-width="3" opacity=".9"/>
+    <circle cx="138" cy="145" r="7" fill="#00d9ff" stroke="none"/>
+    <circle cx="210" cy="145" r="7" fill="#7c5cff" stroke="none"/>
+    <path d="M145 145h58" stroke="#8aa3ff" stroke-width="2" stroke-dasharray="5 7"/>
+  </g>
+</svg>

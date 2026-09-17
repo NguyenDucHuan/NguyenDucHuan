@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/NguyenDucHuan/NguyenDucHuan/main/assets/profile-banner.svg" alt="Nguyễn Đức Huấn — .NET Backend Developer" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
 
 # Nguyễn Đức Huấn
 
