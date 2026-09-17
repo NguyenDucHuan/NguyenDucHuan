@@ -34,6 +34,17 @@ Building reliable APIs, distributed systems, and business applications with a fo
 - Learning more about testing, observability, system design, and production-ready deployments
 - Open to collaboration, backend opportunities, and interesting software projects
 
+## GitHub statistics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenDucHuan&theme=tokyonight" width="90%" alt="GitHub contribution activity" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NguyenDucHuan&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenDucHuan&theme=tokyonight&utcOffset=7" height="165" alt="Productive time" />
+</div>
+
+
 ## Technical skills
 
 ### Backend & architecture
