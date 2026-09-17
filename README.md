@@ -133,17 +133,6 @@ A desktop POS application supporting daily operations for milk tea shops.
 - [Koi Pond System Frontend](https://github.com/NguyenDucHuan/Koi_Pond_System_FE) — React frontend for the koi pond system.
 - [Music App](https://github.com/NguyenDucHuan/music_app) — Flutter and Dart mobile application.
 
-## GitHub statistics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NguyenDucHuan&theme=tokyonight" height="165" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenDucHuan&theme=tokyonight&utcOffset=7" height="165" alt="Productive time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenDucHuan&theme=tokyonight" width="90%" alt="GitHub contribution activity" />
-</div>
-
 ## Let's connect
 
 - GitHub: [@NguyenDucHuan](https://github.com/NguyenDucHuan)
