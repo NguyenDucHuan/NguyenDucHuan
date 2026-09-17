@@ -25,8 +25,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[AptCare](https://github.com/NguyenDucHuan/AptCare)** | Maintenance/Repair Management System | .NET Core, EF Core, PostgreSQL, JWT |
-| **[MilkTeaPOS](https://github.com/NguyenDucHuan/MilkTeaPOS)** | Point-of-Sale system for milk tea shops | .NET Core, Docker, Redis, RabbitMQ |
+| **[AptCare](https://github.com/NguyenDucHuan/AptCare_BE)** | Maintenance/Repair Management System | .NET Core, EF Core, PostgreSQL, JWT |
+| **[MilkTeaPOS](https://github.com/NguyenDucHuan/MilkTeaPos_BE_v1)** | Point-of-Sale system for milk tea shops | .NET Core, Docker, Redis, RabbitMQ |
 
 *(Click to view source code)*
 
