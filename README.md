@@ -119,12 +119,12 @@ A desktop POS application supporting daily operations for milk tea shops.
 ## GitHub statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDucHuan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NguyenDucHuan&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NguyenDucHuan&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenDucHuan&theme=tokyonight&utcOffset=7" height="165" alt="Productive time" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenDucHuan&theme=tokyo-night&hide_border=true&area=true&height=220" width="90%" alt="Contribution activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenDucHuan&theme=tokyonight" width="90%" alt="GitHub contribution activity" />
 </div>
 
 ## Let's connect
