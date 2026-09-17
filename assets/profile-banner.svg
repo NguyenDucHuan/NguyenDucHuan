@@ -41,12 +41,6 @@
   <text x="180" y="158" fill="#9fdcff" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="2">.NET BACKEND DEVELOPER</text>
   <text x="180" y="204" fill="#c5cbe5" font-family="Segoe UI, Arial, sans-serif" font-size="17">APIs • Distributed Systems • Clean Architecture • Cloud</text>
 
-  <g transform="translate(180 238)" font-family="Consolas, monospace" font-size="15">
-    <rect width="510" height="38" rx="19" fill="#0a1024" stroke="#34457b"/>
-    <circle cx="22" cy="19" r="5" fill="#49e58b"/>
-    <text x="38" y="25" fill="#b8c7ff">build reliable systems, one service at a time</text>
-  </g>
-
   <g transform="translate(870 74)" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M0 54h52M26 28v52M0 54l26-26 26 26" stroke="#6f8cff" stroke-width="3" opacity=".8"/>
     <rect x="80" y="10" width="170" height="92" rx="12" stroke="#7385c9" stroke-width="2" opacity=".8"/>
