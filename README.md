@@ -135,6 +135,7 @@ A desktop POS application supporting daily operations for milk tea shops.
 
 ## Let's connect
 
+- Portfolio: [Nguyễn Đức Huấn Portfolio](https://portfolio-q5i1auuv3-huans-projects-f11bd282.vercel.app/)
 - GitHub: [@NguyenDucHuan](https://github.com/NguyenDucHuan)
 - Explore my repositories: [github.com/NguyenDucHuan?tab=repositories](https://github.com/NguyenDucHuan?tab=repositories)
 
